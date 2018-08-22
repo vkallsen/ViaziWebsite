@@ -35,7 +35,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<p>Want to learn more about how we can help you with a custom solution? Use the contact form below, and we will get back to you on the next steps. All fields are required.</h2>
+				<p>Want to learn more about how we can help you with a custom solution? Use the contact form below, and we will get back to you on the next steps. All fields are required.</p>
 			</div>
 		</div>
 		<form id="contact-form" method="post" action="contact.php" role="form"> <!-- Form -->
