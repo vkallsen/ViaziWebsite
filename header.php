@@ -10,7 +10,7 @@
 			<a class="nav-link" href="index.php">Home</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="approach.php">Approach</a>
+			<a class="nav-link" href="howitworks.php">How It Works</a>
 		  </li>
 		  <li class="nav-item">
 			<a class="nav-link" href="about.php">About</a>
