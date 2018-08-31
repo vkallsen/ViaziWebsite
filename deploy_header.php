@@ -7,16 +7,16 @@
 	  <div class="collapse navbar-collapse" id="topnavbar">
 		<ul class="navbar-nav ml-auto">
 		  <li class="nav-item active">
-			<a class="nav-link" href="index.php">Home</a>
+			<a class="nav-link" href="deploy_index.php">Home</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="howitworks.php">How It Works</a>
+			<a class="nav-link" href="deploy_howitworks.php">How It Works</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="about.php">About</a>
+			<a class="nav-link" href="deploy_about.php">About</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="contact.php">Contact</a>
+			<a class="nav-link" href="deploy_contact.php">Contact</a>
 		  </li>
 		</ul>
 	  </div>

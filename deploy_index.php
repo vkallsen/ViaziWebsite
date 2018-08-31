@@ -27,7 +27,7 @@
 		<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, black)">
 			<div class="container container-fluid">
 				<div class="row">
-						<img src="img/penguin.png" class="img-responsive" width="75" height="93">
+						<img src="deploy_img/penguin.png" class="img-responsive" width="75" height="93">
 						<h1 class="display-4" style="color:white">Viazi</h1>
 				</div>
 				<div class="row">
@@ -41,9 +41,9 @@
 		<div class="container marketing" style="text-align:center">
 			<div class="row">
 				<div class="col-lg-6">
-					<img src="img/calendar.png" class="img-responsive" width="216" height="216">	
+					<img src="deploy_img/calendar.png" class="img-responsive" width="216" height="216">	
 					<h2>
-						<a class="btn btn-secondary" href="howitworks.php" role="button">What We Do</a>
+						<a class="btn btn-secondary" href="deploy_howitworks.php" role="button">What We Do</a>
 					</h2>				
 					<p>
 						<!-- Deploying custom applications to solve our customers' roadblocks. -->
@@ -51,9 +51,9 @@
 					</p>
 				</div>
 				<div class="col-lg-6">
-					<img src="img/users.svg" class="img-responsive" width="216" height="216">
+					<img src="deploy_img/users.svg" class="img-responsive" width="216" height="216">
 					<br>
-					<h2><a class="btn btn-secondary" href="contact.php" role="button">Contact Us</a></h2>
+					<h2><a class="btn btn-secondary" href="deploy_contact.php" role="button">Contact Us</a></h2>
 					<p>
 						If you are interested in trying out the software or have questions about how it works, we would love to hear from you. 
 					</p>
@@ -61,9 +61,6 @@
 			</div>	
 		</div>
 	</div>
-
-	 <!-- https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css 
-	 https://getbootstrap.com/docs/4.0/utilities/spacing/
 	 -->
 	<!-- Footer -->
 	<?php include ("footer.php"); ?>

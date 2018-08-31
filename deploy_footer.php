@@ -16,7 +16,7 @@
 				<span class="navbar-text">
 					Website (c) Viazi LLC <br>
 					<a href=https://www.victoriakallsen.com>Website designed by Victoria Kallsen</a><br>
-					<a href="image.html">Image Credits</a>
+					<a href="deploy_image.html">Image Credits</a>
 			</div>
 		  </div>
 		</nav>
