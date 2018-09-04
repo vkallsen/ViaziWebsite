@@ -1,5 +1,5 @@
 <!-- Header -->
-	<nav class="navbar navbar-expand-sm navbar-dark" style="background-color: #5A3583"> -->
+	<nav class="navbar navbar-expand-sm navbar-dark" style="background-color: #5A3583">
 	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	  </button>
