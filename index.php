@@ -22,7 +22,7 @@
 		<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, black)">
 			<div class="container container-fluid">
 				<div class="row">
-						<img src="img/penguin.png" class="img-responsive" width="75" height="93">
+						<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/penguin.png" class="img-responsive" width="75" height="93">
 						<h1 class="display-4" style="color:white">Viazi</h1>
 				</div>
 				<div class="row">
@@ -36,7 +36,7 @@
 		<div class="container marketing" style="text-align:center">
 			<div class="row">
 				<div class="col-lg-6">
-					<img src="img/calendar.png" class="img-responsive" width="216" height="216">	
+					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/calendar.png" class="img-responsive" width="216" height="216">	
 					<h2>
 						<a class="btn btn-secondary" href="howitworks.php" role="button">What We Do</a>
 					</h2>				
@@ -46,7 +46,7 @@
 					</p>
 				</div>
 				<div class="col-lg-6">
-					<img src="img/users.svg" class="img-responsive" width="216" height="216">
+					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/users.svg" class="img-responsive" width="216" height="216">
 					<br>
 					<h2><a class="btn btn-secondary" href="contact.php" role="button">Contact Us</a></h2>
 					<p>

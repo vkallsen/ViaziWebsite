@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/style.css">
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/timeline.css">
 
-    <title>Viazi - About</title>
+    <title>Viazi - About Us</title>
   </head>
   <body>
   <!-- Header -->
@@ -19,7 +19,7 @@
 	<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, black)">
 		<div class="container container-fluid">
 			<div class="row">
-					<img src="img/penguin.png" class="img-responsive" width="75" height="93">
+					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/users.svg" class="img-responsive" width="75" height="93">
 					<h1 class="display-4" style="color:white">Viazi</h1>
 			</div>
 		</div>
@@ -35,8 +35,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<p><br>Viazi LLC was created by Isaac Rudich and Avi Rudich in 2017. Isaac graduated from Carnegie Mellon University in 2017 with two degrees: Production Technology & Management (College of Fine Arts) and Finance (Tepper School of Business). Avi expects to graduate from Carnegie Mellon University in 2020 with a degree in Electrical Engineering from the College of Engineering</p>			
-			</p>
+				<p><br>Viazi LLC was created by Isaac Rudich and Avi Rudich in 2017. Isaac graduated from Carnegie Mellon University in 2017 with two degrees: Production Technology & Management (College of Fine Arts) and Finance (Tepper School of Business). Avi expects to graduate from Carnegie Mellon University in 2020 with a degree in Electrical Engineering from the College of Engineering.</p>			
 			</div>
 		</div>
 		<div class="row">
