@@ -19,7 +19,7 @@
 	<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, black)">
 		<div class="container container-fluid">
 			<div class="row">
-					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/users.svg" class="img-responsive" width="75" height="93">
+					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/penguin.png" class="img-responsive" width="75" height="93">
 					<h1 class="display-4" style="color:white">Viazi</h1>
 			</div>
 		</div>
