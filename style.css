@@ -1,0 +1,19 @@
+p.logo {
+	font-family:Pacifico;
+	color: white;
+}
+
+h2.page-header{
+	border-radius: 22.5px;
+	background-color: #5A3583;
+	color: white;
+    border: none;
+    padding: 10px;
+    text-align: left;
+    text-decoration: none;
+    margin: 4px 2px;
+	border-radius: 12px;
+	font-weight: 500;
+	line-height: 1.2;
+	font-size: 2rem;
+}
