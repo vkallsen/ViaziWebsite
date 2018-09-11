@@ -41,26 +41,28 @@
 		</div>
 		<form id="contact-form" method="post" action="form.php" role="form"> <!-- Form -->
 			<div class="messages"></div>
-			<div class="row">	
-				<div class="col-lg-8 col-lg-offset-2">
-					
-						<div class="form-group">
-							<label for="name">Name</label>
-							<input type="text" class="form-control" id="name" placeholder="Your name" required="required" data-error="Your name is required.">
-							<div class="help-block with-errors"></div>
-						</div>
-						<div class="form-group">
-							<label for="email">Email address</label>
-							<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Your email" required="required" data-error="Your email address is required.">
-							<div class="help-block with-errors"></div>
-							<!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
-						</div>
-						<div class="form-group">
-							<label for="form_message">Message</label>
-							<textarea id="form_message" name="message" class="form-control" placeholder="Your message" rows="4" required="required" data-error="Please leave us a message."></textarea>
-							<div class="help-block with-errors"></div>
-						</div>
-						<input type="submit" class="btn btn-success btn-send" value="Send message" style="background-color: #5A3583;">
+			<div class="controls">
+				<div class="row">	
+					<div class="col-lg-8 col-lg-offset-2">
+						
+							<div class="form-group">
+								<label for="form_name">Name</label>
+								<input type="text" class="form-control" id="name" placeholder="Your name" required="required" data-error="Your name is required.">
+								<div class="help-block with-errors"></div>
+							</div>
+							<div class="form-group">
+								<label for="form_email">Email address</label>
+								<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Your email" required="required" data-error="Your email address is required.">
+								<div class="help-block with-errors"></div>
+								<!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+							</div>
+							<div class="form-group">
+								<label for="form_message">Message</label>
+								<textarea id="form_message" name="message" class="form-control" placeholder="Your message" rows="4" required="required" data-error="Please leave us a message."></textarea>
+								<div class="help-block with-errors"></div>
+							</div>
+							<input type="submit" class="btn btn-success btn-send" value="Send message" style="background-color: #5A3583;">
+					</div>
 				</div>
 			</div>
 		</form>
