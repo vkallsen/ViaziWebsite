@@ -47,12 +47,12 @@
 						
 							<div class="form-group">
 								<label for="form_name">Name</label>
-								<input type="text" class="form-control" id="name" placeholder="Your name" required="required" data-error="Your name is required.">
+								<input type="text" class="form-control" name="name" id="form_name" placeholder="Your name" required="required" data-error="Your name is required.">
 								<div class="help-block with-errors"></div>
 							</div>
 							<div class="form-group">
 								<label for="form_email">Email address</label>
-								<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Your email" required="required" data-error="Your email address is required.">
+								<input type="email" class="form-control" name="email" id="form_email" aria-describedby="emailHelp" placeholder="Your email" required="required" data-error="Your email address is required.">
 								<div class="help-block with-errors"></div>
 								<!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
 							</div>

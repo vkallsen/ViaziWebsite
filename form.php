@@ -47,8 +47,8 @@ try
 	
 	$emailText = "You have a new message from your contact form\n
 	=============================\n
-		Some more text\n
 		Name: $_POST[name]\n
+		Email: $_POST[email]\n
 		Message: $_POST[message]\n
 		Add more form fields or custom text....";
 
