@@ -19,7 +19,7 @@
 	<?php include ("header.php"); ?>
   <!-- End Header -->
 	<div id="content">
-		<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, black)">
+		<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, #683953)">
 			<div class="container container-fluid">
 				<div class="row">
 						<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/penguin.png" class="img-responsive" width="75" height="93">
