@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/style.css">
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/timeline.css">
-
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	
     <title>Viazi - How It Works</title>
   </head>
   <body>
@@ -28,13 +29,70 @@
   https://www.w3schools.com/bootstrap/bootstrap_forms.asp
   -->
 	<div class="container">
+		<!-- <div class="row"> -->
+			<!-- <div class="col-lg-12 m-md-3"> -->
+				<!-- <h2 class="page-header">How It Works</h2> -->
+			<!-- </div> -->
+		<!-- </div> -->
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2">
-				<h2 class="page-header">How It Works</h2>
+			<div class="col-lg-12">
+				<div class="position-relative overflow-hidden p-3 p-md- m-md-3 text-center bg-light">
+					<div class="col-md-10 p-lg-5 mx-auto my-5">
+						<h1 class="display-4 font-weight-normal">Viazi Schedule Solver</h1>
+						<p class="lead font-weight-normal">Our software uses the requirements of classes, teachers, students, and classrooms to quickly create a conflict free course schedule.</p>
+						<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/solver.png" class="mx-auto my-4 d-block">
+						<a class="btn btn-primary btn-lg" href="contact.php">Contact Us to Implement!</a>
+					</div>
+				</div>
 			</div>
 		</div>
-
-    </div>
+		<div class="row">
+			<div class="col-lg-6 py-auto">
+					<div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+						<div class="my-3 py-3">
+							<h2 class="display-5">How It Works</h2>
+							<p class="lead font-weight-normal">
+								<i class="fas fa-database"></i> We set up the database to read and write your preferred data format and enter anything you want us to.<br><br>
+								<i class="fas fa-file-upload"></i> You upload any remaining data.<br><br>
+								<i class="fas fa-edit"></i> You make any changes needed post-upload via our easy-to-use website.<br><br>
+								<i class="fas fa-clock"></i> Hit solve, and take a 5-minute break.<br><br>
+								<i class="fas fa-check"></i> Now your solution is ready, and all necessary paperwork has been generated!<br><br>
+							</p>
+						</div>
+					</div>
+			</div>
+			<div class="col-lg-6 py-auto">
+					<div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+						<div class="my-3 p-3">
+							<h2 class="display-5">Features</h2>
+							<p class="lead font-weight-normal">
+								<i class="fas fa-calendar-alt"></i> Auto-generates weekly calendars by student population, classroom, and teacher.<br><br>
+								<i class="fas fa-user-graduate"></i> Takes into consideration all scheduling needs of faculty and students.<br><br>
+								<i class="fas fa-desktop"></i> Maximizes the use of specialized classrooms (e.g. studios and labs).<br><br>
+								<i class="fas fa-book-open"></i> Ensures students have access to required classes and maximizes access to electives.<br><br>
+								<i class="fas fa-business-time"></i> Finds overlapping free time to help teachers and students schedule meetings.<br><br>
+								<i class="fas fa-lock"></i> Handles any constraint thrown at it, from a teacher not being available at 1:00pm on Mondays to a class requiring two specific classrooms simultaneously.<br><br>
+							</p>
+						</div>
+					</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="position-relative overflow-hidden p-3 p-md- m-md-3 text-center bg-light">
+					<div class="col-md-10 p-lg-5 mx-auto my-5">
+						<h2 class="display-5">Approach with clients</h1>
+						<p class="lead font-weight-normal">Our goal is to make the scheduling process as easy as possible, so we provide as much support as possible.<br><br>
+							We provide our clients full setup and training. The software is extremely easy to use, but we will be there in person to provide training, and by phone and email to provide support. We don’t just want to give you a login and walk away, we want to make sure your experience creating schedules with our software is as simple as it can be.<br><br> 
+							We also setup as much of the database as our users want. You give us all the data you want added to the system (in any format) and we will input it. Anything that changes, or you want to input yourself, can be added using the exact same tools we use on our end. <br><br>
+							If there are any features that you would need access to before the software would be able to solve your specific problem, we would be happy to discuss how quickly we could make that happen.<br><br>
+						</p>
+					<a class="btn btn-primary btn-lg" href="contact.php">Tell Us About Your Scheduling Problem</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	<!-- Footer -->
 	<?php include ("footer.php"); ?>
 	<!-- End Footer -->
