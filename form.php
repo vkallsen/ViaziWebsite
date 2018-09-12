@@ -9,7 +9,7 @@
 $from = 'isaac@viazi.co';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'vkallsen@gmail.com';
+$sendTo = 'isaac@viazi.co';
 
 // subject of the email
 $subject = 'New message from Viazi Website Contact Form';
@@ -49,8 +49,7 @@ try
 	=============================\n
 		Name: $_POST[name]\n
 		Email: $_POST[email]\n
-		Message: $_POST[message]\n
-		Add more form fields or custom text....";
+		Message: $_POST[message]\n";
 
     // All the neccessary headers for the email.
     $headers = array('Content-Type: text/plain; charset="UTF-8";',
