@@ -29,13 +29,13 @@
   -->
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2"> <!-- https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp -->
+			<div class="col-lg-12"> <!-- https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp -->
 			<!-- https://bootsnipp.com/snippets/featured/rounded-buttons -->
 				<h2 class="page-header">Get in Touch</h2>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2">
+			<div class="col-lg-12">
 				<p>Want to learn more about how we can help you with a custom solution? Use the contact form below, and we will get back to you on the next steps. All fields are required.</p>
 			</div>
 		</div>
@@ -43,7 +43,7 @@
 			<div class="messages"></div>
 			<div class="controls">
 				<div class="row">	
-					<div class="col-lg-8 col-lg-offset-2">
+					<div class="col-lg-12">
 						
 							<div class="form-group">
 								<label for="form_name">Name</label>

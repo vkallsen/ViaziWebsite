@@ -29,12 +29,12 @@
   -->
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2">
+			<div class="col-lg-12">
 				<h2 class="page-header">Our Story</h2>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2">
+			<div class="col-lg-12">
 				<p><br>Viazi LLC was created by Isaac Rudich and Avi Rudich in 2017. Isaac graduated from Carnegie Mellon University in 2017 with two degrees: Production Technology & Management (College of Fine Arts) and Finance (Tepper School of Business). Avi expects to graduate from Carnegie Mellon University in 2020 with a degree in Electrical Engineering from the College of Engineering.</p>			
 			</div>
 		</div>
@@ -42,12 +42,12 @@
 			<p><br></p>
 		</div>
 		<div class="row">	
-			<div class="col-lg-8 col-lg-offset-2"> 
+			<div class="col-lg-12"> 
 				<h2 class="page-header">Timeline</h2>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2"> 
+			<div class="col-lg-12"> 
 					<ul class="timeline">
 						<li class="timeline-item">
 							<div class="timeline-badge"><i class="glyphicon glyphicon-off"></i></div>
