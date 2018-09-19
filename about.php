@@ -22,6 +22,9 @@
 					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/penguin.png" class="img-responsive" width="75" height="93">
 					<h1 class="display-4" style="color:white">Viazi</h1>
 			</div>
+			<div class="row">
+					<p class="lead" style="color:white">Course scheduling made easy.</p>
+			</div>
 		</div>
 	</div>
   <!-- https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form 
