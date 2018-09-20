@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -8,8 +8,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/style.css">
-	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/timeline.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/timeline.css"> 
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> 
+	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/test.css"> 
 	
     <title>Viazi - How It Works</title>
   </head>
@@ -17,17 +18,6 @@
   <!-- Header -->
 	<?php include ("header.php"); ?>
   <!-- End Header -->
-	<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(#e87fba, #683953)">
-		<div class="container container-fluid">
-			<div class="row">
-					<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/penguin.png" class="img-responsive" width="75" height="93">
-					<h1 class="display-4" style="color:white">Viazi</h1>
-			</div>
-			<div class="row">
-					<p class="lead" style="color:white">Course scheduling made easy.</p>
-			</div>
-		</div>
-	</div>
   <!-- https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form 
   https://www.w3schools.com/bootstrap/bootstrap_forms.asp
   -->
@@ -50,7 +40,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-6 py-auto">
+			<div class="col-lg-6">
 					<div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
 						<div class="my-3 py-3">
 							<h2 class="display-5">How It Works</h2>
@@ -64,9 +54,9 @@
 						</div>
 					</div>
 			</div>
-			<div class="col-lg-6 py-auto">
+			<div class="col-lg-6">
 					<div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-						<div class="my-3 p-3">
+						<div class="my-3 py-3">
 							<h2 class="display-5">Features</h2>
 							<p class="lead font-weight-normal">
 								<i class="fas fa-calendar-alt"></i> Auto-generates weekly calendars by student population, classroom, and teacher.<br><br>
@@ -104,5 +94,6 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+	<script src="navbar.js"></script>
   </body>
 </html>
