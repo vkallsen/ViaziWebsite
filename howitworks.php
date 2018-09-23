@@ -10,8 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/style.css">
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/timeline.css"> 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> 
-	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/test.css"> 
-	
+
     <title>Viazi - How It Works</title>
   </head>
   <body>
@@ -39,8 +38,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-6">
+<!-- 		<div class="row">
+			<div class="col-lg-6"> -->
+			<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
 					<div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
 						<div class="my-3 py-3">
 							<h2 class="display-5">How It Works</h2>
@@ -53,8 +53,8 @@
 							</p>
 						</div>
 					</div>
-			</div>
-			<div class="col-lg-6">
+<!--  			</div> 
+			<div class="col-md-6"> -->
 					<div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
 						<div class="my-3 py-3">
 							<h2 class="display-5">Features</h2>

@@ -10,7 +10,6 @@
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/style.css">
 	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/timeline.css"> 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> 
-	<link rel="stylesheet" type="text/css" href="https://s3.us-east-2.amazonaws.com/viazi-website/test.css"> 
 
     <title>Viazi - Home</title>
   </head>
@@ -37,9 +36,9 @@
 			<div class="col-lg-6">
 				<img src="https://s3.us-east-2.amazonaws.com/viazi-website/img/users.svg" class="img-responsive" width="216" height="216">
 				<br>
-				<h2><a class="btn btn-secondary" href="contact.php" role="button">Contact Us</a></h2>
+				<h2><a class="btn btn-secondary" href="contact.php" role="button">What Users Say</a></h2>
 				<p>
-					If you are interested in trying out the software or have questions about how it works, we would love to hear from you. 
+					Read testimonials from current users about the impact of Viazi software.
 				</p>
 			</div>
 		</div>	
