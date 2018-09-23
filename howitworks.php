@@ -45,11 +45,11 @@
 						<div class="my-3 py-3">
 							<h2 class="display-5">How It Works</h2>
 							<p class="lead font-weight-normal">
-								<i class="fas fa-database"></i> We set up the database to read and write your preferred data format and enter anything you want us to.<br><br>
-								<i class="fas fa-file-upload"></i> You upload any remaining data.<br><br>
-								<i class="fas fa-edit"></i> You make any changes needed post-upload via our easy-to-use website.<br><br>
-								<i class="fas fa-clock"></i> Hit solve, and take a 5-minute break.<br><br>
-								<i class="fas fa-check"></i> Now your solution is ready, and all necessary paperwork has been generated!<br><br>
+								<i class="fas fa-database"></i> We create the initial database with your information and constraints.<br><br>
+								<i class="fas fa-file-upload"></i>  You upload any remaining data in your chosen format (Excel, JSON, etc.).<br><br>
+								<i class="fas fa-edit"></i> In the future, you can make any changes via our easy-to-use website.<br><br>
+								<i class="fas fa-clock"></i> Hit solve, and wait a few seconds.<br><br>
+								<i class="fas fa-check"></i> Now your solution is ready, and all your necessary paperwork has been generated!<br><br>
 							</p>
 						</div>
 					</div>
@@ -60,11 +60,11 @@
 							<h2 class="display-5">Features</h2>
 							<p class="lead font-weight-normal">
 								<i class="fas fa-calendar-alt"></i> Auto-generates weekly calendars by student population, classroom, and teacher.<br><br>
-								<i class="fas fa-user-graduate"></i> Takes into consideration all scheduling needs of faculty and students.<br><br>
+								<i class="fas fa-user-graduate"></i> Takes into consideration all scheduling needs of faculty and students including constraints like availability and teaching preferences.<br><br>
 								<i class="fas fa-desktop"></i> Maximizes the use of specialized classrooms (e.g. studios and labs).<br><br>
 								<i class="fas fa-book-open"></i> Ensures students have access to required classes and maximizes access to electives.<br><br>
 								<i class="fas fa-business-time"></i> Finds overlapping free time to help teachers and students schedule meetings.<br><br>
-								<i class="fas fa-lock"></i> Handles any constraint thrown at it, from a teacher not being available at 1:00pm on Mondays to a class requiring two specific classrooms simultaneously.<br><br>
+								<i class="fas fa-lock"></i> Handles any constraint thrown at it, from a teacher not being available at 1:00pm on Mondays to a class requiring two specific classrooms simultaneously. If you have a particular problem, we can solve it.<br><br>
 							</p>
 						</div>
 					</div>
@@ -75,10 +75,10 @@
 				<div class="position-relative overflow-hidden p-3 p-md- m-md-3 text-center bg-light">
 					<div class="col-md-10 p-lg-5 mx-auto my-5">
 						<h2 class="display-5">Approach with clients</h1>
-						<p class="lead font-weight-normal">Our goal is to make the scheduling process as easy as possible, so we provide as much support as possible.<br><br>
-							We provide our clients full setup and training. The software is extremely easy to use, but we will be there in person to provide training, and by phone and email to provide support. We don’t just want to give you a login and walk away, we want to make sure your experience creating schedules with our software is as simple as it can be.<br><br> 
-							We also setup as much of the database as our users want. You give us all the data you want added to the system (in any format) and we will input it. Anything that changes, or you want to input yourself, can be added using the exact same tools we use on our end. <br><br>
-							If there are any features that you would need access to before the software would be able to solve your specific problem, we would be happy to discuss how quickly we could make that happen.<br><br>
+						<p class="lead font-weight-normal">Our goal is to make the scheduling process as easy as possible, so we provide one-on-one support, demonstrations, and trial periods.  <br><br>
+							We provide our clients full setup and training. The software is extremely easy to use, but we will provide support in person, over the phone, or through email. We don’t just want to give you a login and call it a day; we want to make sure your experience creating schedules with our software is as simple as it can be.<br><br> 
+							We also setup as much of the database as our users want. You give us all the information you want added to the system (in any format) and we will handle the initial data entry. Anything that changes, or you want to input yourself, can be added using the exact same tools we use on our end.<br><br>
+							If there are any features that you would need before you can use our software, we would be happy to discuss how quickly we could make that happen. <br><br>
 						</p>
 					<a class="btn btn-primary btn-lg" href="contact.php">Tell Us About Your Scheduling Problem</a>
 					</div>
